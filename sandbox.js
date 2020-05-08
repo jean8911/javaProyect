@@ -1,4 +1,4 @@
-const ul = document.querySelector('.ninjas');
+/*const ul = document.querySelector('.ninjas');
 
 const ninjas = ['ryu', 'gaiden', 'runouri', 'banjo'];
 
@@ -8,3 +8,4 @@ ninjas.forEach(ninja => html += `<li>${ninja}</li>`);
 
 console.log(html);
 ul.innerHTML = html;
+*/
